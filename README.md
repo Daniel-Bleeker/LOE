@@ -1,2 +1,1 @@
-# Half-Baked Economics Analysis/Philosophizing
-This repository contains random writings I have done mainly focusing on economics. This repository is really just for fun, I am no acedemic or scholar. I just like everyone else, really like hearing myself talk and think others should spend more time listening to me talk too. So I created this repository were I ramble unintelligably about erronious stuff in economics so others can have more opportunities to listen to me talk.   
+
